@@ -18,15 +18,15 @@ Experiencia:
 
 Proyectos:
 
-![Proyectos](imagenes/captura_3.png)
+![Proyectos](imagenes/Captura_3.png)
 
 Testimonios:
 
-![Testimonios](imagenes/captura_4.png)
+![Testimonios](imagenes/Captura_4.png)
 
 Contacto:
 
-![Contacto](imagenes/captura_5.png)
+![Contacto](imagenes/Captura_5.png)
 
 ## Tecnologías
 
