@@ -14,7 +14,7 @@ Primera parte de la página web:
 
 Experiencia:
 
-![Experiencia](imagenes/captura_2.png)
+![Experiencia](imagenes/Captura_2.png)
 
 Proyectos:
 
